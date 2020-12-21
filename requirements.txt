@@ -1,0 +1,5 @@
+numpy
+mpi4py
+vidgear
+matplotlib
+cv2
